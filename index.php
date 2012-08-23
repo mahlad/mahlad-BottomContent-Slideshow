@@ -5,7 +5,7 @@
 	<title>Bottom Text Slideshow</title>
 	<link type="text/css" rel="stylesheet" href="css/reset.css">
 	<link type="text/css" rel="stylesheet" href="css/style.css">
-	<script type="text/javascript"src="script/jquery.js"></script>
+	<script type="text/javascript"src="script/zepto.js"></script>
 	<script type="text/javascript" src="script/bottom-slide.js"></script>
 </head>
 
